@@ -1,0 +1,4 @@
+.env
+nimcache/
+nimblecache/
+htmldocs/
